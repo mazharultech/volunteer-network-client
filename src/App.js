@@ -1,12 +1,12 @@
+import { Container} from '@material-ui/core';
 import './App.css';
+import Home from './components/Home/Home';
 
 function App() {
   return (
-    <div>
-        <h1>Volunteer network coming soon</h1>
-        <p>Lorem ipsum dolor sit.</p>
-        
-    </div>
+    <Container>
+        <Home></Home>
+    </Container>
   );
 }
 
