@@ -1,0 +1,16 @@
+.volunteer-register{
+    text-align: center;
+    width: 500px;
+    height: 800px;
+}   
+.form-container{
+    border: 1px solid #000000;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+
+.form-control{
+    width: 400px;
+    height: 30px;
+}
